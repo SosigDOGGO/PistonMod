@@ -1,0 +1,16 @@
+[
+{
+  "modid": "piston",
+  "name": "Piston Mod",
+  "description": "Allows for independent aspect ratio scaling",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/SosigDOGGO/PistonMod",
+  "updateUrl": "",
+  "authorList": ["SosigDOGGO", "Losy001"],
+  "credits": "dollar",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
